@@ -11,7 +11,7 @@ public class A12A20220118 {
 		int range = 2;
 
 		if (s == 1) {
-			bw.write(Integer.toString(1));
+			count=1;
 
 		} else {
 			while (range <= s) {
